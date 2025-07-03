@@ -39,7 +39,7 @@
 
 ## 📊 Accurate GitHub Statistics
 
-[![Assegid's Comprehensive Stats](https://github-readme-stats.vercel.app/api?username=assegidasefa&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Assegid's%20Development%20Activity)](https://github.com/assegidasefa)
+
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=assegidasefa&layout=compact&theme=github_dark&hide_border=true&langs_count=8&count_private=true)](https://github.com/assegidasefa)
 
