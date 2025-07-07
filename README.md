@@ -83,7 +83,7 @@ interface Developer {
   skills: {
     frontend: ["React", "Next.js", "TypeScript", "Tailwind"];
     backend: ["Node.js", "Express", "NestJS", "PostgreSQL"];
-    devOps: ["Docker", "AWS", "CI/CD"];
+   
   };
   passions: ["Clean Code", "Performance Optimization", "Mentoring"];
   funFact: "Can debug production issues while hiking 🏔️";
